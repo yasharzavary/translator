@@ -1,4 +1,4 @@
-# Created by : Amirhosein abdelzade
+# created by: yashar zavary rezaie
 # my languages :  germany and english
 import string
 from googletrans import Translator
